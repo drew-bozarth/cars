@@ -1,3 +1,9 @@
+1. Name: Drew Bozarth
+2. Student ID: 2373658
+3. Email: dbozarth@chapman.edu
+4. Class: CPSC 298-03
+5. Assignment - cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
